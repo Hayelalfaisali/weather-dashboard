@@ -2,7 +2,7 @@
 
 A beautiful and responsive weather dashboard built with React, TypeScript, and Zustand. Get real-time weather information for any city with a modern, glassmorphic UI design.
 
-![Weather Dashboard Preview](preview.png)
+![DevFinder Screenshot](/public/image.png)
 
 ## 🌟 Features
 
@@ -100,6 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@Hayel Al-Faisali](https://twitter.com/HayelFaisali)
+Hayel Al-Faisali - [@Hayel Al-Faisali](https://twitter.com/HayelFaisali)
 
-Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/Hayelalfaisali/weather-dashboard)
+Project Link: [https://github.com/Hayelalfaisali/weather-dashboard](https://github.com/Hayelalfaisali/weather-dashboard)
