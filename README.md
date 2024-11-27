@@ -100,6 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@Hayel Al-Faisali](https://twitter.com/HayelFaisali)
 
-Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard)
+Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/Hayelalfaisali/weather-dashboard)
