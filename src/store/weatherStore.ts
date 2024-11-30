@@ -5,7 +5,7 @@ interface WeatherData {
   humidity: number;
   windSpeed: number;
   description: string;
-  icon: string;
+  icon: number;
 }
 
 interface WeatherStore {
