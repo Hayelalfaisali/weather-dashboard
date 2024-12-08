@@ -35,6 +35,7 @@ A beautiful and responsive weather dashboard built with React, TypeScript, and Z
 
 ### Installation
 
+
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/weather-dashboard.git
